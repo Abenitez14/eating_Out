@@ -35,6 +35,7 @@ mydata <- select(GSS,race,age,eatout)
 mydata <- na.omit(mydata)
 ```
 
+case file
 
 
 
